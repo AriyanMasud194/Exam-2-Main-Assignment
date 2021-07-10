@@ -109,6 +109,7 @@ img {
   -ms-border-radius: 0 0 0.4rem 0.4rem;
   -o-border-radius: 0 0 0.4rem 0.4rem;
   padding-left: 1rem;
+ z-index:9;	
 }
 
 .h_center ul li:hover ul {
